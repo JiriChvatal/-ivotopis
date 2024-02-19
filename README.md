@@ -1,2 +1,2 @@
-# -ivotopis
+Zivotopis
 ENGETO-bonusový-úkol
